@@ -1,0 +1,25 @@
+ 82  echo "# checkpoint-clase8-14-08" >> README.md
+   83  git init
+   84  git add README.md
+   85  git commit -m "first commit"
+   86  git branch -M main
+   87  git remote add origin https://github.com/auraPasmin/checkpoint-clase8-14-08.git
+   88  git push -u origin main
+   89  git status
+   90  git add .
+   91  git commit -m "commit  de Aura Pasmin"
+   92  git push origin main
+   93  git branch feature
+   94  git checkout feature
+   95  mkdir Hardware
+   96  mkdir Software
+   97  mkdir SeguridadInformatica
+   98  git status
+   99  git add .
+  100  git commit -m "commit 3 de Aura Pasmin"
+  101  git push origin feature
+  102  git checkout main
+  103  ls
+  104  mv main.js resumenHardware.txt
+  105  mv index.html resumenSoftware.txt
+  106  history

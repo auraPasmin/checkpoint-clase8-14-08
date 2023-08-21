@@ -1,0 +1,5 @@
+Memoria RAM (Random Access Memory): Es una memoria volátil y de acceso aleatorio que se utiliza para almacenar datos y programas en ejecución mientras la computadora está encendida. La RAM permite un acceso rápido a los datos, lo que mejora el rendimiento general del sistema.
+
+Memoria ROM (Read-Only Memory): Es una memoria no volátil que contiene instrucciones y datos que son esenciales para el arranque y funcionamiento básico de la computadora. No se puede modificar fácilmente y se utiliza para almacenar firmware y otros componentes críticos.
+
+Memoria Cache: La memoria caché es una memoria de alta velocidad ubicada entre la CPU y la memoria RAM. Su propósito principal es almacenar copias de datos y programas utilizados con frecuencia para reducir los tiempos de acceso y mejorar la velocidad de la computadora.
